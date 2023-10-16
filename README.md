@@ -30,7 +30,6 @@
 
 * #### **[Sneed](https://github.com/sneedman1337)** `  developer  ` `  backend developer  `
 * #### **[Pinguini](https://github.com/Pinguii1ni)** `  developer  ` `  designer  ` `  mapper  `
-* #### **[Buckton](https://github.com/Buckton)** `  contributor  ` `  administrator  `
 *  #### **God** `The lord`
 
 
